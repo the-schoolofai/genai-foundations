@@ -1,0 +1,13 @@
+[project]
+name = "genai-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rizwan", email = "rizwanse66@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "ollama>=0.6.3",
+]
